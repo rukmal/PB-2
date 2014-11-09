@@ -3,3 +3,6 @@
 
 # Ingoring node modules
 node_modules
+
+# Ignoring the real config file
+real_config.json
